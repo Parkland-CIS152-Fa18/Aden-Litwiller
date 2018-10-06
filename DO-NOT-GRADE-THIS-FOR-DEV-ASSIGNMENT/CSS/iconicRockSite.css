@@ -1,0 +1,53 @@
+body {
+    width: 98%;
+    background-color: darkgoldenrod;
+    font-size: 100%;
+}
+
+header img{
+    float: left;
+}
+header h2 {
+    margin-left: 5em;
+    margin-right: 20px;
+    padding-bottom: .25em;
+    border-bottom: 3px solid red;
+    text-shadow: 1px 1px red;
+}
+
+nav {
+    font-size: 105%;
+    background-color: red;
+    width: 80%;
+    margin-left: 7em;
+    margin-right: 10em;
+    color: darkblue
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 17px;
+}
+main {
+    margin-top: 4em;
+    margin-left: 6em;
+    margin-right: 10em;
+    border: 3px;
+}
+main h2 {
+    color: darkblue;
+    text-align: center;
+}
+main ol {
+    color: darkblue;
+}
+.text {
+    background-color: red;
+}
+footer {
+    font-size: 75%;
+}
